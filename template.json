@@ -186,7 +186,7 @@
                 ],
                 "Configuration": {
                   "RepositoryName": { "Ref": "AppProjectRepo" },
-                  "BranchName": "master"
+                  "BranchName": "main"
                 },
                 "RunOrder": 1
               }
